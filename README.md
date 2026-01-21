@@ -60,8 +60,8 @@ SAE_terminée/
 
 ## Auteurs
 
-- [Yanis STENTZEL](https://yanisstentzel.github.io/)
 - [Jonathan WILD](https://www.linkedin.com/in/jonathan-wild-b7986434a/)
+- [Yanis STENTZEL](https://www.linkedin.com/in/yanis-stentzel/)
 - [Alix CARTAL](https://www.linkedin.com/in/alix-cartal-18333534b/)
 
 ## Licence
