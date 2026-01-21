@@ -12,8 +12,8 @@ Application Python interfacée avec l'API Brickset pour explorer et gérer des c
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/jonathanmusic/SAE-Brickset-API.git
-cd SAE-Brickset-API
+git clone https://github.com/flopiloop/API-Brickset.git
+cd API-Brickset
 ```
 
 2. Installer les dépendances :
